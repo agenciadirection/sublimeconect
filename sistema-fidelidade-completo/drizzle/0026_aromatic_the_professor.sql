@@ -1,0 +1,2 @@
+ALTER TABLE `loyaltyCustomers` MODIFY COLUMN `lastPurchase` datetime DEFAULT '2025-11-30 02:49:18.484';--> statement-breakpoint
+ALTER TABLE `loyaltyRedemptions` MODIFY COLUMN `completedAt` datetime DEFAULT '2025-11-30 02:49:18.484';

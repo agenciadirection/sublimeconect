@@ -1,2 +1,0 @@
-ALTER TABLE `loyaltyCustomers` MODIFY COLUMN `lastPurchase` datetime DEFAULT '2025-11-13 03:08:48.504';--> statement-breakpoint
-ALTER TABLE `loyaltyRedemptions` MODIFY COLUMN `completedAt` datetime DEFAULT '2025-11-13 03:08:48.504';
